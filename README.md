@@ -16,13 +16,14 @@ The public package contains:
 * the annular reference path coordinates;
 * the annular path tracking coordinates produced by KMPC, KAIL-MPC, and DKAIL-MPC.
 
-2\. Repository structure
+### 2\. Repository structure
+
 DKAIL-MPC-Reproducibility/
 ├── README.md
 ├── PSEUDOCODE.md
 ├── PARAMETERS.md
 └── data/
-└── tracking\_data.csv
+             └── tracking\_data.csv
 
 README.md: Describes the purpose, scope, directory structure, verification procedure, software environment, and release limitations.
 

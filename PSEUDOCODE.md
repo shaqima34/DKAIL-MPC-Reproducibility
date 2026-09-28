@@ -211,7 +211,8 @@ MPC: disabled
 Koopman/Deep Koopman prediction: disabled
 Adaptive robust compensation: disabled
 
-8.2 KMPC
+### 8.2 KMPC
+
 Koopman prediction model: enabled
 Deep state–control joint lifting: disabled
 MPC: enabled
@@ -223,7 +224,8 @@ Deep state-control joint lifting: enabled
 MPC: enabled
 ILC/AILC: disabled
 
-8.4 DKIL-MPC
+### 8.4 DKIL-MPC
+
 Deep state–control joint lifting: enabled
 MPC: enabled
 Basic iterative learning: enabled
@@ -232,7 +234,8 @@ Cross-iteration error alignment: spatial index
 
 DKIL-MPC retains the basic iterative-learning term (\\mathbf v\_{1,j}) while disabling the three adaptive robust compensation terms: \\mathbf v\_{2,j}=\\mathbf v\_{3,j}=\\mathbf v\_{4,j}=0
 
-8.5 KAIL-MPC
+### 8.5 KAIL-MPC
+
 Koopman prediction model: enabled
 Deep state–control joint lifting: disabled
 MPC: enabled
@@ -240,7 +243,8 @@ Basic iterative learning: enabled
 Adaptive robust compensation: enabled
 Cross-iteration error alignment: spatial index
 
-8.6 DKAIL-MPC — Complete Proposed Method
+### 8.6 DKAIL-MPC — Complete Proposed Method
+
 Deep state–control joint lifting: enabled
 MPC: enabled
 Basic iterative learning: enabled
