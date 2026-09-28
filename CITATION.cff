@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility and verification materials, please cite the associated manuscript and this archived release."
+
+title: "Reproducibility and Verification Materials for DKAIL-MPC"
+
+version: "v1.0.1"
+
+date-released: 2026-09-28
+
+authors:
+  - family-names: "Zhang"
+    given-names: "Yaqi"
+  - family-names: "Tang"
+    given-names: "Minan"
+
+repository-code: "https://github.com/shaqima34/DKAIL-MPC-Reproducibility"
